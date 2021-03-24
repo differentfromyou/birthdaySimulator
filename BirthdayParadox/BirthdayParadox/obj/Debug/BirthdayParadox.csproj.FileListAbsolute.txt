@@ -1,0 +1,10 @@
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.exe.config
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.exe
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\bin\Debug\BirthdayParadox.pdb
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.csprojAssemblyReference.cache
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.Form1.resources
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.Properties.Resources.resources
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.csproj.GenerateResource.cache
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.csproj.CoreCompileInputs.cache
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.exe
+C:\Users\Piotr's laptop\source\repos\BirthdayParadox\BirthdayParadox\obj\Debug\BirthdayParadox.pdb

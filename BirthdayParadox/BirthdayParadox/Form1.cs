@@ -1,9 +1,3 @@
-﻿//By Piotr Wiatr on 10/30/2020
-//Grade 11, just for fun not for any class :(
-//Why I made it: Just saw a video from Vsauce2 about the birthday paradox and wanted to create a program that would, at least partly, prove
-//the validity of such a theory.
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,15 +20,15 @@ namespace BirthdayParadox
         private void btnCalculate_Click(object sender, EventArgs e)
         {
             //Setting variables
-            int numPeople = int.Parse(textPeople.Text);             //Sets the number of people per experiment
-            int numExperiments = int.Parse(textExperiments.Text);   //Sets the number of experiments
-            prgsProgress.Value = 0;                                 //Resets the progress bar
-            prgsProgress.Maximum = numExperiments;                  //Makes it so that the progress bar is finished once it has completed all experiments
-            richDisplay.Text = "";                                  //Resets the display box
-            Random rnd = new Random();                              //Sets the random object
-            int[] birthdays = new int[numPeople];                   //Creates array in which the birthdays are stored
-            int numOfDuplicates = 0;                                //Number of duplicate birthdays
-            int numOfDifferences = 0;                               //Number of non-duplicated birthdays
+            int numPeople = int.Parse(textPeople.Text);             
+            int numExperiments = int.Parse(textExperiments.Text);   
+            prgsProgress.Value = 0;                                 
+            prgsProgress.Maximum = numExperiments;                 
+            richDisplay.Text = "";                                 
+            Random rnd = new Random();                              
+            int[] birthdays = new int[numPeople];                   
+            int numOfDuplicates = 0;                                
+            int numOfDifferences = 0;                               
 
 
             //disables all input fields to avoid errors
